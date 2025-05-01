@@ -1,0 +1,1 @@
+//! Module to hold system information to be displayed by `stat_view`.

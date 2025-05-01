@@ -1,0 +1,1 @@
+//! Module to represent tasks information gathered from system.

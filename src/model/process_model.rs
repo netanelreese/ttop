@@ -1,0 +1,1 @@
+//! Module to hold information displayed by `process_view`.

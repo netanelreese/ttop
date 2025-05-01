@@ -1,0 +1,1 @@
+//! Module to handle user interaction pertinent to `stat_view`.

@@ -1,0 +1,1 @@
+//! Module to represent swap information in MiB.

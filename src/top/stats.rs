@@ -1,0 +1,1 @@
+//! Module to represent general information (uptime, system time, users, avg. load, etc.)
