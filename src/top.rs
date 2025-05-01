@@ -1,8 +1,8 @@
 //! Module to interface with system information.
 
-mod tasks;
-mod swap;
-mod stats;
-mod process;
-mod memory;
 mod cpu;
+mod memory;
+mod process;
+mod stats;
+mod swap;
+mod tasks;

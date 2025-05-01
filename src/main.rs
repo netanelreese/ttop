@@ -3,10 +3,10 @@
 //! The main module creates the view and associates the model and controllers with their respective
 //! view panes.
 
-mod view;
-mod model;
 mod controller;
+mod model;
 mod top;
+mod view;
 
 fn main() {
     println!("Hello, world!");
