@@ -1,0 +1,1 @@
+//! Module to represent memory information in MiB.
