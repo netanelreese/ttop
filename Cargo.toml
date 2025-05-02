@@ -7,7 +7,6 @@ description = "TUI-Based System Monitoring Utility."
 readme = "README.md"
 repository = "https://github.com/netanelreese/ttop"
 license = "GPL-3"
-license-file = "LICENSE"
 keywords = ["top", "tui", "system-utility"]
 categories = ["command-line-interface", "command-line-utilities", "os::linux-apis"]
 publish = true
@@ -29,5 +28,5 @@ lto = "fat"
 panic = "abort"
 
 [dependencies]
-clap = "4.5.37"
+clap = { version = "4.5.37", features = ["derive"] }
 ratatui = "0.29.0"
